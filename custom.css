@@ -4,3 +4,6 @@
 body {
   background-color: rgb(100, 175, 255);
 }
+.container {
+    vertical-align: middle;
+}
